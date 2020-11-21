@@ -1,0 +1,4 @@
+# Project exclude paths
+/demo-dubbo-nacos-api/target/
+/demo-dubbo-nacos-ServiceA/target/
+/demo-dubbo-nacos-ServiceB/target/
